@@ -1,1 +1,2 @@
 # GrupyPOL
+Program utworzony w języku RUBY, jego zadaniem jest wypełnienie luki w systemie autorskich programów tworzących i wyświetlających zobrazowanie dyspozytorskie Nastawni Centralnej. Program tworzy pliki (.pgrp) obiektów w których zastosowano tzw. wózki (szuflady ruchome z wyłacznikiem mocy na podstacji trakcyjnej) używając jako wzorca pliku (np. szczecin.wozki), dzięgi utworzonym plikom program wizualizacji zobrazowania dyspozytorskiego może zasymulować ruch wózka na podstawie obiektów (tzw. meldunków) o tej samej nazwie.
